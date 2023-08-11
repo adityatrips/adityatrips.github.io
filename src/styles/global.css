@@ -281,6 +281,11 @@ button {
 		user-select: none;
 	}
 
+	& (svg) {
+		height: var(--fs-md);
+		width: var(--fs-md);
+	}
+
 	&.primary {
 		--type: hsl(var(--txt));
 	}
