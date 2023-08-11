@@ -10,5 +10,4 @@ export default defineConfig({
 		}),
 	],
 	site: "https://adityatrips.github.io",
-	base: "/astro-blog",
 });
