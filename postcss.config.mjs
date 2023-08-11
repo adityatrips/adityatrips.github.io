@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+const { defineConfig } = require("astro/config");
 
 export default defineConfig = {
 	plugins: [
